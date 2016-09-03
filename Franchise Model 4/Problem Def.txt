@@ -1,0 +1,1 @@
+o create a franchise model where the paintings are displayed , depending on the selection of the paintings made avail in their franchise , They Must have capability to release and enter the amount sold and rollback facility

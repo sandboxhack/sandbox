@@ -1,0 +1,15 @@
+Problem : To Create a Dashboard that extracts the data from the server and displays in real time scenario in the form of graphical interface that depends on the client ID
+
+
+
+Attached is a sample JSON data object that the datagenerator will generate
+ 
+Each datagenerator app represents a customer incl the GPS co-ordinates
+Each customer has 10 devices installed – the device name and id will differ from 0 to 9
+Each device will generate data which is random between set values from client app
+Each device will generate data once every 10 seconds (data every one second from each customer)
+ 
+There will be 6 such customer data generators generating data (each with same device name aid id from 0 to 9)
+ 
+The server should be able to log and archive this data
+The web/mobile app should be able to display overall live dashboard, customer or device wise filters and location map with each customer pin in different color to distinguish them in the overall dashboard mode

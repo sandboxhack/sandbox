@@ -1,0 +1,20 @@
+{
+	"identity":
+	{
+		"name":"dev1",
+		"id":1
+	},
+	"customer":
+	{
+		"name":"Customer1",
+		"location":["75.1240","15.3647"]
+	},
+	"data":
+	{
+		"voltage":190,
+		"current":5,
+		"pressure":8,
+		"humidity":25,
+		"temperature":26
+	}
+}

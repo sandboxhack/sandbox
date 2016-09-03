@@ -1,0 +1,5 @@
+To create a Hybrid Application for Ecommerce platform where the data retrieval from the WordPress ecommerce site in the form of REST API .
+
+The Plugin is loaded using REST API Plugin 
+
+Link : http://www.freshboxx.in/

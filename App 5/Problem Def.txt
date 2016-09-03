@@ -1,0 +1,1 @@
+  To create a dashboard to share the requirements/resources needed from the firm and covering the meeting room book, the meeting schedule, the messaging group , the event handling.
